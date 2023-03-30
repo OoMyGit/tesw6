@@ -1,0 +1,11 @@
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\bin\Debug\tesw6.exe.config
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\bin\Debug\tesw6.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\bin\Debug\tesw6.pdb
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.csproj.AssemblyReference.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.csproj.SuggestedBindingRedirects.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.Form1.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.Properties.Resources.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.csproj.GenerateResource.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w6 ad\tesw6\tesw6\obj\Debug\tesw6.pdb
